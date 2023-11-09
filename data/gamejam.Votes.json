@@ -1,0 +1,154 @@
+[{
+  "_id": {
+    "$oid": "654bcbd396d17c8e67f0c925"
+  },
+  "art": 8,
+  "gameplay": 10,
+  "sound": 7,
+  "theme": 8,
+  "gameName": "GTA VI",
+  "judgeName": "Julian"
+},
+{
+  "_id": {
+    "$oid": "654bdd0696d17c8e67f0c930"
+  },
+  "art": 8,
+  "gameplay": 10,
+  "sound": 7,
+  "theme": 8,
+  "gameName": "Dead Cells",
+  "judgeName": "Julian"
+},
+{
+  "_id": {
+    "$oid": "654be3ff96d17c8e67f0c939"
+  },
+  "art": 10,
+  "gameplay": 10,
+  "sound": 5,
+  "theme": 10,
+  "gameName": "Dead Cells",
+  "judgeName": "Martin"
+},
+{
+  "_id": {
+    "$oid": "654c02e43284eb4f9ae94d88"
+  },
+  "art": 5,
+  "gameplay": 8,
+  "sound": 4,
+  "theme": 7,
+  "gameName": "Team Fortress 2",
+  "judgeName": "Julian"
+},
+{
+  "_id": {
+    "$oid": "654c042809863a3823e3fc22"
+  },
+  "art": 6,
+  "gameplay": 10,
+  "sound": 9,
+  "theme": 5,
+  "gameName": "Risk of Rain 2",
+  "judgeName": "Julian"
+},
+{
+  "_id": {
+    "$oid": "654c08830d4e0c9ee68f1d6b"
+  },
+  "art": 10,
+  "gameplay": 10,
+  "sound": 5,
+  "theme": 5,
+  "gameName": "GTA VI",
+  "judgeName": "Tomas"
+},
+{
+  "_id": {
+    "$oid": "654c10d5b5d4593cc51a994e"
+  },
+  "art": 9,
+  "gameplay": 9,
+  "sound": 8,
+  "theme": 6,
+  "gameName": "Terraria",
+  "judgeName": "Julian"
+},
+{
+  "_id": {
+    "$oid": "654c10ebb5d4593cc51a994f"
+  },
+  "art": 10,
+  "gameplay": 7,
+  "sound": 10,
+  "theme": 6,
+  "gameName": "Don't Starve Together",
+  "judgeName": "Julian"
+},
+{
+  "_id": {
+    "$oid": "654c10feb5d4593cc51a9950"
+  },
+  "art": 6,
+  "gameplay": 10,
+  "sound": 5,
+  "theme": 7,
+  "gameName": "Don't Starve Together",
+  "judgeName": "Martin"
+},
+{
+  "_id": {
+    "$oid": "654c110cb5d4593cc51a9951"
+  },
+  "art": 10,
+  "gameplay": 5,
+  "sound": 9,
+  "theme": 8,
+  "gameName": "Don't Starve Together",
+  "judgeName": "Tomas"
+},
+{
+  "_id": {
+    "$oid": "654c1149b5d4593cc51a9952"
+  },
+  "art": 6,
+  "gameplay": 10,
+  "sound": 7,
+  "theme": 5,
+  "gameName": "GTA VI",
+  "judgeName": "Martin"
+},
+{
+  "_id": {
+    "$oid": "654c1168b5d4593cc51a9953"
+  },
+  "art": 10,
+  "gameplay": 10,
+  "sound": 10,
+  "theme": 10,
+  "gameName": "Dead Cells",
+  "judgeName": "Tomas"
+},
+{
+  "_id": {
+    "$oid": "654c22119432dd8dcb3738aa"
+  },
+  "art": 7,
+  "gameplay": 5,
+  "sound": 5,
+  "theme": 5,
+  "gameName": "Terraria",
+  "judgeName": "Tomas"
+},
+{
+  "_id": {
+    "$oid": "654c22219432dd8dcb3738ab"
+  },
+  "art": 9,
+  "gameplay": 9,
+  "sound": 9,
+  "theme": 9,
+  "gameName": "Terraria",
+  "judgeName": "Martin"
+}]

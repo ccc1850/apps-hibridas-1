@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "654ba53396d17c8e67f0c918"
+  },
+  "name": "GTA VI",
+  "genre": "Shooter",
+  "members": [
+    "Eddie",
+    "Garlic",
+    "Bart"
+  ],
+  "edition": 2023
+},
+{
+  "_id": {
+    "$oid": "654ba5b096d17c8e67f0c919"
+  },
+  "name": "Dead Cells",
+  "genre": "Roguelike",
+  "members": [
+    "Twinny",
+    "Starry"
+  ],
+  "edition": 2023
+},
+{
+  "_id": {
+    "$oid": "654ba5d996d17c8e67f0c91a"
+  },
+  "name": "Team Fortress 2",
+  "genre": "Shooter",
+  "members": [
+    "Gabe",
+    "Velva",
+    "Martin"
+  ],
+  "edition": 2023
+},
+{
+  "_id": {
+    "$oid": "654bc3eccef4c126cab3eaab"
+  },
+  "name": "Risk of Rain 2",
+  "genre": "Roguelike",
+  "members": [
+    "Javier",
+    "Ale",
+    "Manzana"
+  ],
+  "edition": 2022
+},
+{
+  "_id": {
+    "$oid": "654c105096d17c8e67f0c948"
+  },
+  "name": "Terraria",
+  "genre": "Survival",
+  "members": [
+    "Redigit",
+    "Cenx",
+    "Aaron"
+  ],
+  "edition": 2022
+},
+{
+  "_id": {
+    "$oid": "654c109596d17c8e67f0c949"
+  },
+  "name": "Don't Starve Together",
+  "genre": "Survival",
+  "members": [
+    "Klei",
+    "Chan",
+    "Mark"
+  ],
+  "edition": 2022
+}]
